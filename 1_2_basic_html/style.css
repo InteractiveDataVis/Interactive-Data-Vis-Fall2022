@@ -18,3 +18,25 @@ h3 {
 p {
   font-size: 1em;
 }
+
+table {
+  border-spacing: 0px;
+}
+th {
+  font-weight: 900;
+}
+td {
+  border-bottom: 1px solid black;
+}
+
+.two-names {
+ color: pink;
+}
+
+#special-for-may {
+  color: aqua;
+}
+
+svg {
+  border: 1px solid black;
+}
